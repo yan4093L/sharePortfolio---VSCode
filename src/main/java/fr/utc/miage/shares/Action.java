@@ -28,7 +28,7 @@ public abstract class Action {
 
     /**
      * Get the value of libelle
-     *
+     
      * @return the value of libelle
      */
     public String getLibelle() {
